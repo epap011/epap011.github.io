@@ -5,20 +5,20 @@
     "image": "",
     "email": "papageorgiou.efthimis@proton.me",
     "phone": "",
-    "url": "https://epap.github.io/al-folio/",
+    "url": "",
     "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Heraklion",
-      "countryCode": "GR",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -30,8 +30,8 @@
       "url": "https://www.forth.gr/en/home/",
       "startDate": "2024-03-01",
       "endDate": "",
-      "summary": "Accomplished automated scaling of Amazon ECS services to maintain a target tail latency, by developing an adaptive Model Predictive Control (MPC) system. Achieved target CPU utilization for an Apache HTTP Server, by developing a Model Predictive Control (MPC) system that utilized both classical and quantum techniques",
-      "highlights": [""]
+      "summary": "",
+      "highlights": ["Accomplished automated scaling of Amazon ECS services to maintain a target tail latency, by developing an adaptive Model Predictive Control (MPC) system", "Achieved target CPU utilization for an Apache HTTP Server, by developing a Model Predictive Control (MPC) system that utilized both classical and quantum techniques"]
     },
     {
       "name": "Foundation for Research and Technology - Hellas (FORTH)",
@@ -40,8 +40,8 @@
       "url": "https://www.forth.gr/en/home/",
       "startDate": "2022-04-01",
       "endDate": "2023-03-01",
-      "summary": "Conducted research on Apache HTTP Server, focusing on various Multi-Processing Modules (MPMs) and the reconfiguration transition phase",
-      "highlights": [""]
+      "summary": "",
+      "highlights": ["Conducted research on Apache HTTP Server, focusing on various Multi-Processing Modules (MPMs) and the reconfiguration transition phase"]
     }
   ],  
   "education": [
@@ -53,8 +53,7 @@
       "studyType": "MSc",
       "startDate": "2023-09-01",
       "endDate": "",
-      "score": "4.0/4.0",
-      "courses": [""]
+      "courses": ["Thesis: [TBA]", "Advisor: Prof. Kostas Magoutis", "Grade: 9.75/10.0"]     
     },
     {
       "institution": "University of Crete",
@@ -64,8 +63,7 @@
       "studyType": "BSc",
       "startDate": "2019-09-01",
       "endDate": "2023-09-01",
-      "score": "2.2/4.0",
-      "courses": [""]
+      "courses": ["Thesis: Evaluating the Adaptivity Mechanisms of the Apache HTTP Server", "Advisor: Prof. Kostas Magoutis", "Grade: 7.6/10.0"]
     }
   ],
   "certificates": [
@@ -73,15 +71,13 @@
       "name": "Introduction to Cloud Computing",
       "date": "2024-09-01",
       "issuer": "IBM",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "url": "https://www.coursera.org/account/accomplishments/verify/K7FZK99VR0YD"
     },
     {
       "name": "Introduction to DevOps",
       "date": "2024-09-01",
       "issuer": "IBM",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "url": "https://www.coursera.org/account/accomplishments/verify/9Q9W8B8NAAKJ"
     }
   ],
   "publications": [
@@ -108,14 +104,27 @@
         "Grafana",
         "Linux"
       ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "C",
+        "Java",
+        "Python",
+        "Go",
+        "Bash",
+        "SQL"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Career Fair - Volunteer",
+      "organization": "Career Fair - CSD/UOC",
       "location": "Heraklion, Greece",
       "position": "volunteer",
-      "url": "https://example.com",
+      "url": "https://careerfair.csd.uoc.gr/",
       "startDate": "2023-11-20",
       "endDate": "2023-11-23",
       "summary": "",
@@ -130,7 +139,12 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional working proficiency",
+      "icon": ""
+    },
+    {
+      "language": "French ",
+      "fluency": "Elementary proficiency",
       "icon": ""
     }
   ]
