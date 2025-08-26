@@ -51,9 +51,11 @@
       "startDate": "2022-04-01",
       "endDate": "2023-03-01",
       "summary": "",
-      "highlights": ["Conducted research on Apache HTTP Server, focusing on various Multi-Processing Modules (MPMs) and the reconfiguration transition phase"]
+      "highlights": [
+        "Conducted research on Apache HTTP Server, focusing on various Multi-Processing Modules (MPMs) and the reconfiguration transition phase"
+      ]
     }
-  ],  
+  ],
   "education": [
     {
       "institution": "University of Crete",
@@ -63,7 +65,7 @@
       "studyType": "Ph.D.",
       "startDate": "2025-09-01",
       "endDate": "",
-      "courses": ["Supervisor: Prof. Kostas Magoutis"]     
+      "courses": ["Supervisor: Prof. Kostas Magoutis"]
     },
     {
       "institution": "University of Crete",
@@ -73,7 +75,11 @@
       "studyType": "M.Sc.",
       "startDate": "2023-09-01",
       "endDate": "",
-      "courses": ["Thesis: Decision-Making Approaches for Resource Management in Adaptive Computing Systems", "Supervisor: Prof. Kostas Magoutis", "Grade: 9.21/10.0"]     
+      "courses": [
+        "Thesis: Decision-Making Approaches for Resource Management in Adaptive Computing Systems",
+        "Supervisor: Prof. Kostas Magoutis",
+        "Grade: 9.21/10.0"
+      ]
     },
     {
       "institution": "University of Crete",
@@ -114,29 +120,13 @@
       "name": "DevOps & Infrastructure",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Amazon Web Services",
-        "Docker",
-        "Kubernetes",
-        "Terraform",
-        "GitHub Actions",
-        "Prometheus",
-        "Grafana",
-        "Linux"
-      ]
+      "keywords": ["Amazon Web Services", "Docker", "Kubernetes", "Terraform", "GitHub Actions", "Prometheus", "Grafana", "Linux"]
     },
     {
       "name": "Programming",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "C",
-        "Java",
-        "Python",
-        "Go",
-        "Bash",
-        "SQL"
-      ]
+      "keywords": ["C", "Java", "Python", "Go", "Bash", "SQL"]
     }
   ],
   "volunteer": [
