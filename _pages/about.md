@@ -1,34 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi stranger! I’m Efthimis Papageorgiou, but you can call me Makis. I was born in Athens, but for many years now I’ve been living in Heraklion, Crete, where I’m currently a Ph.D. student in Computer Science at the University of Crete. Alongside my studies, I work as a graduate research assistant at the Information Systems Lab at the Foundation for Research and Technology – Hellas (FORTH). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My main passion lies in understanding and controlling large-scale computing systems. I enjoy exploring both traditional control techniques and modern approaches like reinforcement learning. What excites me most is the challenge of setting a clear goal, whether it’s improving performance, reducing costs, or meeting service-level objectives, and then finding a way to achieve it.
+My master's thesis is closely related to these topics and you can find it [here](https://elocus.lib.uoc.gr/dlib/5/e/2/metadata-dlib-1754042388-226165-11664.tkl).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I step away from research, I usually pick up my bass guitar. My music taste ranges from the heaviness of Opeth, Sepultura, Dream Theater, Tool, Bathory, and Gojira to the atmospheric sounds of Vangelis Papathanasiou (a huge Blade Runner fan here) and Ludwig Göransson. I also enjoy reading hard sci-fi, with The Remembrance of Earth’s Past trilogy among my favorites.
