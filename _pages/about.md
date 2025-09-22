@@ -20,6 +20,6 @@ Hi! I’m Efthimis Papageorgiou, but you can call me Makis. I was born in Athens
 My main passion lies in understanding and controlling large-scale computing systems. I enjoy exploring both traditional control techniques and modern approaches like reinforcement learning. What excites me most is the challenge of setting a clear goal, whether it’s improving performance, reducing costs, or meeting service-level objectives, and then finding a way to achieve it.
 My master's thesis is closely related to these topics and you can find it [here](https://elocus.lib.uoc.gr/dlib/5/e/2/metadata-dlib-1754042388-226165-11664.tkl).
 
-When I step away from research, I usually pick up my bass guitar. My music taste ranges from the heaviness of Opeth, Gojira, Tool, and Sepultura to the atmospheric sounds of Vangelis Papathanasiou, Hans Zimmer, and Ludwig Göransson. I also enjoy reading hard sci-fi, with The Remembrance of Earth’s Past trilogy among my favorites. 
+When I step away from research, I usually pick up my bass guitar. My music taste ranges from the heaviness of Opeth, Gojira, Tool, and Sepultura to the atmospheric sounds of Vangelis Papathanasiou, Hans Zimmer, and Ludwig Göransson. I also enjoy reading hard sci-fi, with The Remembrance of Earth’s Past trilogy among my favorites.
 
 Feel free to reach out.
