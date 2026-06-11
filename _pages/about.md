@@ -32,6 +32,6 @@ Hi! I'm Efthymis Papageorgiou (Makis in short) and I'm a Ph.D. student in Comput
 
 I work on resource management for large-scale systems, especially microservices. My focus is the Quality of Service (QoS) of such systems — controlling tail latency and meeting service-level objectives (SLOs). I'm also interested in overload control: keeping systems steady when demand spikes while satisfying SLOs and avoiding outages.
 
-When I step away from research, I'm usually watching European basketball, reading hard sci-fi by Isaac Asimov or Liu Cixin, playing bass, or doing nothing at all. Social networks like Instagram and Facebook aren't really my thing, so email is the best way to reach me.
+When I step away from research, I'm usually watching European basketball, reading hard sci-fi by Isaac Asimov or Liu Cixin, playing bass, or doing nothing at all.
 
 Feel free to reach out.
